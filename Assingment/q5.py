@@ -3,11 +3,13 @@
 
 
 
-tunneld=160
+tunneld=160  #given in Quation 
 
 speed=45000/3600
 
 distance=340+160
+
+calculating Time 
 
 time=distance/speed
 
