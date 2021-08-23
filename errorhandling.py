@@ -9,7 +9,7 @@ except(OverflowError):
     print("overflow error ocured")
 
 #divide by zero
-
+a=4
 b=0
 try:
     print("Division by zero ",a/b)
@@ -68,6 +68,6 @@ try:
     if(amount > 2999)
     print("You are eligible to purchase gold")
 except:
-    print("This is syntax error"
+    print("This is syntax error")
 
 
