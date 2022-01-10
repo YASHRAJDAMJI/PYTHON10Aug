@@ -1,0 +1,25 @@
+Title :-
+        Write a program to generate console base invoice
+
+
+To Run Our projact you need to install some dependancies 
+Dependancies to be installed are 
+        - MySQLdb (pip install mysql-client)
+	- python 3
+
+our project imports MySQLdb package 
+ To run our project client requires to create "products" database and in that database he must create "productinfo" table 
+
+
+
+Description about Project :-
+
+	In our project we have given 3 choices to user 
+                         1]Add products
+			 2]Show product
+			 3]Generate invoise bill 
+                        
+           if user selects 1st option then our program will ask input for produat id, product name and product price
+           if user selects 2nd option then our program will display all the added products to the user 
+           if user selects 3rd option then program will generate Bill of all the added products to thr database  
+            
